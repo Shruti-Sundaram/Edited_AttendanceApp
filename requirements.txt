@@ -1,0 +1,10 @@
+flask
+numpy
+opencv-python
+tensorflow
+pandas
+watchdog
+pillow
+scikit-learn
+keras
+
